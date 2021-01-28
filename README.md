@@ -1,2 +1,2 @@
-# generation-Lógica com Portugol
+# Generation-Lógica com Portugol
 Exercícios de Lógica, resolvidos com Portugol
